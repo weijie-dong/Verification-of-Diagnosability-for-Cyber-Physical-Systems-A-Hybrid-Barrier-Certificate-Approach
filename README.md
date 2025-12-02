@@ -54,7 +54,7 @@ python main.py
 ```
 Note that in those output equations obtained in the Terminal, $x1$, $x2$, $x12$, and $x22$ are used to denote $x_1$, $x_2$ $\hat{x}_1$, $\hat{x}_2$ in our manuscript, respectively.
 
-5. To reproduce the Figure~4 of the Case Study in Section~IV, type the following commands
+5. To reproduce the Figure 4 of the Case Study in Section IV, type the following commands
 ```bash
 cd final-case\diagnoser
 julia
